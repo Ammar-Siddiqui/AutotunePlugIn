@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Build folders
+build/
+cmake-build-*/
+
+# IDE files
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Plugin artifacts
+*.component
+*.vst3
+*.app
